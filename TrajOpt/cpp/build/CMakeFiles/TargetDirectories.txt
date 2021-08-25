@@ -1,0 +1,3 @@
+/home/nick/Documents/GNC/TrajOpt/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/nick/Documents/GNC/TrajOpt/cpp/build/CMakeFiles/quaternion.dir
+/home/nick/Documents/GNC/TrajOpt/cpp/build/CMakeFiles/edit_cache.dir
